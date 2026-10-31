@@ -4,7 +4,6 @@ An educational end-to-end simulation of a secure data transmission chain, with a
 A message is compressed, encrypted, protected against errors, sent through a noisy channel, then recovered, with
 every step visualized.
 
-Course project (CI2CYBER, ISMAGI) by **Khouloud Moumni**.
 
 ## How it works
 
